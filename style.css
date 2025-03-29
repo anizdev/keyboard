@@ -67,7 +67,6 @@ body {
 
 .keyboard .key.active {
     background: #f00;
-    transition: background .3s ease-in-out;
 }
 
 .keyboard .key.active::before {
